@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi there, I'm Momen 👋</h1>
 
 <p align="center">
@@ -33,24 +31,24 @@ I'm a passionate software developer with a knack for problem-solving and a love 
 ## 🌍 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/momen-helmi/)
-- [Portfolio](https://yourportfolio.com)
+- [Portfolio](https://mano4life.github.io/portfolio/)
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Your GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Your Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mano4life&theme=radical" alt="Your GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano4life&layout=compact&theme=radical" alt="Your Top Languages">
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical" alt="Your GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mano4life&theme=radical" alt="Your GitHub Trophies">
 </p>
 
 ---
 
-⭐️ From [Your GitHub Username](https://github.com/Mano4life)
+⭐️ From [Mano4life](https://github.com/Mano4life)
 
 
 <!--
