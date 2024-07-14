@@ -6,9 +6,6 @@
   <a href="https://github.com/Mano4life">
     <img src="https://img.shields.io/github/followers/Mano4life?label=Follow&style=social" alt="GitHub followers">
   </a>
-  <a href="https://twitter.com/Mano4life">
-    <img src="https://img.shields.io/twitter/follow/Mano4life?label=Follow&style=social" alt="Twitter followers">
-  </a>
 </p>
 
 <p align="center">
@@ -20,13 +17,6 @@
 ## 👨‍💻 About Me
 
 I'm a passionate software developer with a knack for problem-solving and a love for creating impactful solutions. Whether it's front-end, back-end, or anything in between, I enjoy diving into all aspects of development.
-
-- 🔭 I’m currently working on [Your Current Project](https://github.com/yourusername/yourproject)
-- 🌱 I’m currently learning [MongoDB] (e.g., "TypeScript", "Machine Learning")
-- 👯 I’m looking to collaborate on [Databases]
-- 💬 Ask me about [Open Source] (e.g., "JavaScript", "Python", "Open Source")
-- 📫 How to reach me: []
-- ⚡ Fun fact: [A Fun Fact About You]
 
 ## 🛠️ Technologies & Tools
 
@@ -42,17 +32,8 @@ I'm a passionate software developer with a knack for problem-solving and a love 
 
 ## 🌍 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/momen-helmi/)
 - [Portfolio](https://yourportfolio.com)
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post Title 1](https://yourblog.com/post1)
-- [Post Title 2](https://yourblog.com/post2)
-- [Post Title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Stats
 
@@ -69,7 +50,7 @@ I'm a passionate software developer with a knack for problem-solving and a love 
 
 ---
 
-⭐️ From [Your GitHub Username](https://github.com/yourusername)
+⭐️ From [Your GitHub Username](https://github.com/Mano4life)
 
 
 <!--
